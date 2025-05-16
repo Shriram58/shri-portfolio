@@ -1,0 +1,366 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font: 'Times New Roman', Times, serif;
+    background-color: aqua;
+}
+
+.navbar-brand:hover {
+    color: black;
+}
+
+#navbar .navbar-brand {
+    font-size: 2rem;
+}
+
+#navbar {
+    background-color: blue;
+    margin-bottom: 10px;
+    padding-left: 5px;
+}
+
+#navbar .nav-link:hover {
+    color: aqua;
+}
+
+#navbar .nav-link {
+    font-size: 1.5rem;
+}
+
+.nav-item {
+    color: aliceblue;
+}
+
+div {
+    justify-content: space-between;
+}
+
+body {
+    background-color: #323031;
+}
+
+img {
+    height: 550px;
+    width: 550px;
+}
+
+p {
+    color: white;
+    font-size: 1.7rem;
+    align-items: center;
+}
+
+#navbar2 {
+    background-color: blue;
+    text-decoration: none;
+    font-size: 2rem;
+    padding: 10px;
+    text-align: center;
+}
+
+.education {
+    text-decoration: none;
+    color: white;
+}
+
+.education:hover {
+    color: aqua;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.text-center {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container-fluid {
+    padding-bottom: 10px;
+}
+
+.content {
+    padding-top: 10px;
+}
+
+.s1 {
+    background-color: darkcyan;
+}
+
+.s2 {
+    background-color: deepskyblue;
+}
+
+.s3 {
+    background-color: dodgerblue;
+}
+
+.p1 {
+    border: 3px solid darkturquoise;
+    padding-top: 56px;
+    padding-bottom: 56px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p2 {
+    border: 3px solid darkturquoise;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p3 {
+    border: 3px solid darkturquoise;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.p1:hover {
+    background-color: mediumorchid;
+    color: black;
+
+}
+
+.p2:hover {
+    color: black;
+    background-color: moccasin;
+}
+
+.p3:hover {
+    color: black;
+    background-color: gold;
+}
+
+.scl {
+    height: 60px;
+    width: 60px;
+}
+
+.clg {
+    height: 60px;
+    width: 60px;
+}
+
+.ud {
+    height: 35px;
+    width: 60px;
+}
+
+.text-center:hover {
+    color: black;
+    background-color: cornflowerblue;
+}
+
+#navigate {
+    background-color: blue;
+    padding: 10px;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.skills {
+    color: white;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+.skills:hover {
+    color: aqua;
+}
+
+h3 {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.html {
+    background-color: darkcyan;
+}
+
+.css {
+    background-color: deepskyblue;
+}
+
+.js {
+    background-color: dodgerblue;
+}
+
+.idea {
+    padding-top: 10px;
+    padding-bottom: 25px;
+}
+
+.row {
+    padding-top: 10px;
+}
+
+.a1 {
+    border: 3px solid darkturquoise;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a2 {
+    border: 3px solid darkturquoise;
+    padding-top: 49px;
+    padding-bottom: 49px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a3 {
+    border: 3px solid darkturquoise;
+    padding-top: 49px;
+    padding-bottom: 49px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a1:hover {
+    background-color: mediumorchid;
+    color: black;
+
+}
+
+.a2:hover {
+    color: black;
+    background-color: moccasin;
+}
+
+.a3:hover {
+    color: black;
+    background-color: gold;
+}
+
+#nav3 {
+    background-color: blue;
+    padding: 10px;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.project {
+    text-decoration: none;
+    color: white;
+}
+
+.project:hover {
+    color: aqua;
+}
+
+.pr {
+    background-color: darkcyan;
+}
+
+.pre {
+    background-color: deepskyblue;
+}
+
+h4 {
+    padding-top: 10px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.b1:hover {
+    background-color: mediumorchid;
+    color: black;
+
+}
+
+.b2:hover {
+    color: black;
+    background-color: moccasin;
+}
+
+.b1 {
+    border: 3px solid darkturquoise;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b2 {
+    border: 3px solid darkturquoise;
+    padding-top: 49px;
+    padding-bottom: 49px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cric {
+    height: 120px;
+    width: 80px
+}
+
+.other {
+    height: 80px;
+    width: 120px;
+}
+
+footer {
+    background-color: aquamarine;
+}
+
+.contact {
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.ok {
+    text-align: center;
+}
+
+.form {
+    text-align: center;
+}
+
+.f1 {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.f2 {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.f3 {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.f4 {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+.f5 {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+}
+
+li {
+    list-style-type: none;
+}
+
+.listt {
+    text-align: center;
+}
